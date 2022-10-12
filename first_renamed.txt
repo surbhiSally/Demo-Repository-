@@ -1,0 +1,3 @@
+This is my first git tutorial
+and i am making some changes and now second time
+this is changed now
